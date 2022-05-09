@@ -1,0 +1,9 @@
+Today was the first day of my Internship at Cohesity.
+
+There was a formal orientation session in the morning in which they described about the company and work-life. They also provided all the authorisation details for OKTA. Logged into some important applications. 
+
+Later in the afternoon I got to know a bit about of my team.
+
+Later had one-on-one meeting with my mentor where we discussed a bit about company and then he suggested me to skim through company marketplace to know what sort of work Cohesity did till date. Shubham also suggested me to learn about Kubernetes and docker as they would be essential in making the applications. Then I got to know that the project would require Golan so shubham suggested me to do a course on Udemy. This was all about the meeting. 
+
+Then I started learning about the apps made by Cohesity and displayed in marketplace and made a short report on all apps as suggested by Shubham. Now I also have to work about learning Kubernetes and docker which I would start tomorrow in the morning.
