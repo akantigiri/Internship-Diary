@@ -1,0 +1,5 @@
+1. Got a good grasp about basics of Kubernetes and Docker.
+
+2. Read the sample app documentation given by shubham and code of an example sample app.
+
+3. In this two days I got to know about a lot of terminologies related to DataPlatform management. A great way to start.
